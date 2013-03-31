@@ -1,0 +1,18 @@
+             ONLY ONE RULE PUBLIC LICENSE
+               VERSION 1, February 2013
+
+  Copyright (c) 2013, Rafael Wenzel (rafael@tweep.de)
+
+  You may copy, distribute and modify this license however
+  you see fit, as long as the name of it is changed.
+
+
+  ONLY ONE RULE PUBLIC LICENSE TERMS AND CONDITIONS FOR:
+         COPYING, DISTRIBUTION AND MODIFICATION
+
+
+  1. You may do whatever you want with this software, as
+     long as you credit me as the original author of the
+     software at hand. Just write something like:
+
+     "joekinley - Original Author".
